@@ -29,5 +29,4 @@ println(pi)      # constant π
 println(1 + 2im) # imaginary unit
 
 # Naming conventions:
-# - variables: lowercase_with_underscores
-
+# - variables: lowercase_with_underscores 
