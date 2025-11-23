@@ -1,3 +1,5 @@
+using Plots
+
 # =========================================
 # Zadatak 1
 # Periodic broken-line signal
