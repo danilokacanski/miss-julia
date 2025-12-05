@@ -1,0 +1,56 @@
+# Obaveštenje – Predmet Geodezija
+
+Ovaj dokument sadrži pregled bodovanja, uslove za izlazak na usmeni ispit i raspored predstojećih testova i kolokvijuma iz predmeta **Geodezija**.
+
+---
+
+## 🟦 Raspodela bodova tokom semestra (ukupno 70 bodova)
+
+### **1. Računarski testovi – 4 testa × 2.5 bodova = 10 bodova**
+- Održavaju se na **vežbama**.
+- Svaki test nosi **2.5 boda**.
+
+---
+
+### **2. Teorijski testovi – 2 testa × 5 bodova = 10 bodova**
+- Održavaju se na **predavanjima**.
+- Svaki teorijski test nosi **5 bodova**.
+
+---
+
+### **3. Kolokvijumi – 2 kolokvijuma × 25 bodova = 50 bodova**
+- Polaže se **jedan kolokvijum po semestru**.
+- Nakon toga mogu da se polažu **parcijalno u svakom ispitnom roku**.
+- Svaki kolokvijum nosi **25 bodova**.
+
+---
+
+## 🟩 Uslov za izlazak na usmeni ispit
+
+Da biste izašli na usmeni deo ispita, potrebno je ostvariti:
+
+### ✅ **Minimum 36/70 bodova**  
+(računaju se računarski testovi + teorijski testovi + kolokvijumi)
+
+---
+
+## 🟧 Usmeni ispit
+
+- Usmeni deo nosi **30 bodova**.
+- Održava se u **svakom ispitnom roku**.
+
+---
+
+## 🟪 Raspored termina
+
+### **Prvi računarski test**
+📅 Period: **8./9. 12.**  
+📌 Odvija se **u terminu vežbi**.
+
+---
+
+### **Prvi računsrski kolokvijum**
+📅 Planirani termin: **23/24. 12.**  
+(tačan datum biće naknadno potvrđen)
+
+---
