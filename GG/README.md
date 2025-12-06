@@ -4,6 +4,12 @@ Ovaj dokument sadrži pregled bodovanja, uslove za izlazak na usmeni ispit i ras
 
 ---
 
+## 📊 Rezultati
+
+Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d/1-XOY5EP7_vWWm3iOVBHYEjhB4E5QVqQQq20BTwxUHY4/edit?usp=sharing
+
+---
+
 ## 🟪 Raspored termina
 
 ### **Prvi računarski test**
