@@ -13,7 +13,7 @@ Ovaj dokument sadrži pregled bodovanja, uslove za izlazak na usmeni ispit i ras
 ---
 
 ### **Prvi kolokvijum**
-📅 Planirani termin: **23/24. 12.**  
+📅 Planirani termin: **23./24. 12.**  
 (tačan datum biće naknadno potvrđen)
 
 ---
