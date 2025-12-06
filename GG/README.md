@@ -4,6 +4,20 @@ Ovaj dokument sadrži pregled bodovanja, uslove za izlazak na usmeni ispit i ras
 
 ---
 
+## 🟪 Raspored termina
+
+### **Prvi računarski test**
+📅 Period: **8./9. 12.**  
+📌 Odvija se **u terminu vežbi**.
+
+---
+
+### **Prvi kolokvijum**
+📅 Planirani termin: **23/24. 12.**  
+(tačan datum biće naknadno potvrđen)
+
+---
+
 ## 🟦 Raspodela bodova tokom semestra (ukupno 70 bodova)
 
 ### **1. Računarski testovi – 4 testa × 2.5 boda = 10 bodova**
@@ -38,20 +52,6 @@ Da biste izašli na usmeni deo ispita, potrebno je ostvariti:
 
 - Usmeni deo nosi **30 bodova**.
 - Održava se u **svakom ispitnom roku**.
-
----
-
-## 🟪 Raspored termina
-
-### **Prvi računarski test**
-📅 Period: **8./9. 12.**  
-📌 Odvija se **u terminu vežbi**.
-
----
-
-### **Prvi kolokvijum**
-📅 Planirani termin: **23/24. 12.**  
-(tačan datum biće naknadno potvrđen)
 
 ---
 
