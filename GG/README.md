@@ -12,15 +12,15 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
-### **Prvi računarski test**
-📅 Period: **8./9. 12.**  
+### **Drugi računarski test**
+📅 Period: **22./23. 12.**  
 📌 Odvija se **u terminu vežbi**.
 
 ---
 
 ### **Prvi kolokvijum**
-📅 Planirani termin: **23./24. 12.**  
-(tačan datum biće naknadno potvrđen)
+📅 Planirani termin: **26. 12. 2025. u učionici NTP417 od 18h**  
+
 
 ---
 
