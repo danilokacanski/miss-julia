@@ -62,4 +62,4 @@ Da biste izašli na usmeni deo ispita, potrebno je ostvariti:
 ---
 
 ### **Dodatne informacije**
-Za dodatne informacije obratiti se asistentu na mejl - *kacanski.ra26.2020@gmal.com* ili profesoru na mejl - dcapko@uns.ac.rs
+Za dodatne informacije obratiti se asistentu na mejl - *kacanski.ra26.2020@gmail.com* ili profesoru na mejl - dcapko@uns.ac.rs
