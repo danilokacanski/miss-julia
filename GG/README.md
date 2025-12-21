@@ -19,7 +19,7 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 ---
 
 ### **Prvi kolokvijum**
-📅 Termin: **26. 12. 2025. u učionici NTP417 od 18h**  
+📅 Termin: **26.12.2025. u učionici NTP417 od 18h**  
 
 
 ---
