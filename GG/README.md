@@ -12,12 +12,6 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
-### **Drugi računarski test**
-📅 Termin: **22./23. 12.**  
-📌 Odvija se **u terminu vežbi**.
-
----
-
 ### **Prvi kolokvijum**
 📅 Termin: **26.12.2025. u učionici NTP417 od 18h**  
 
