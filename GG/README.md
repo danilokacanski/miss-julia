@@ -12,8 +12,8 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
-### **Prvi kolokvijum**
-📅 Termin: **26.12.2025. u učionici NTP417 od 18h**  
+### **Uvid u radove**
+📅 Termin: **9.1.2026. u kancelariji NTP416 od 18h**  
 
 
 ---
