@@ -4,12 +4,6 @@ Ovaj dokument sadrži pregled bodovanja, uslove za izlazak na usmeni ispit i ras
 
 ---
 
-## Radna nedelja 12.1.2026. - 16.1.2026.
-
-Termin ponedeljkom od 12:15 se otkazuje zbog moje prehlade, tako da svi mogu doći u termin utorkom od 17:45. Ko nije u mogućnosti da dođe u utorak, ima matarijal u folderu week05_..., a može i pogledati ove vežbe na sledećem linku: https://www.youtube.com/watch?v=iQAcIT8rLuQ&list=PLPYphqWwNORltmS60NyWL72ISdE8o6M2x&index=37
-
----
-
 ## 📊 Rezultati
 
 Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d/1-XOY5EP7_vWWm3iOVBHYEjhB4E5QVqQQq20BTwxUHY4/edit?usp=sharing
@@ -18,9 +12,14 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
-### **Uvid u radove**
-📅 Termin: **Nakon vežbi u radnoj nedelji od 12.1.2026.**  
+### **Praktični test 3**
+📅 Termin: **U terminu vežbi u radnoj nedelji od 26.1.2026.**  
 
+---
+
+## Dodatni materijal
+
+Snimke vežbi za E2 iz 2021 možete pronaći na sledećem linku: https://www.youtube.com/watch?v=iQAcIT8rLuQ&list=PLPYphqWwNORltmS60NyWL72ISdE8o6M2x&index=37
 
 ---
 
