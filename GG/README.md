@@ -13,7 +13,7 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 ## 🟪 Raspored termina
 
 ### **Praktični test 3**
-📅 Termin: **U terminu vežbi u radnoj nedelji od 26.1.2026., dolazi samo gradivo sa week05_...**  
+📅 Termin: **U oba termina vežbi u radnoj nedelji od 26.1.2026., dolazi samo gradivo sa week05_...**  
 
 ---
 
