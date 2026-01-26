@@ -12,6 +12,9 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
+### **Kolokvijum 2**
+📅 Termin: **Kolokvijum 2 biće održan u sredu 4.2.2026. u terminu 19:00-21:00 u učionici NTP-417**  
+
 ### **Praktični test 3**
 📅 Termin: **U oba termina vežbi u radnoj nedelji od 26.1.2026., dolazi samo gradivo sa week05_...**  
 
