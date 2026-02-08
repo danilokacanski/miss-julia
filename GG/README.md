@@ -16,8 +16,8 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 📅 Termin: **Kolokvijum 2 biće održan u sredu 4.2.2026. u terminu 19:15-21:00 u učionici NTP-417**  
 Gradivo koje dolazi na K2 je week_05... - week_08..., za koje je potrebno razumeti i delove week_02... i week04...
 
-### **Praktični test 4**
-📅 Termin: **U oba termina vežbi u radnoj nedelji od 9.2.2026., dolazi samo gradivo sa week07_...**  
+### **Praktični test 4/ Popravka ostalih testova**
+📅 Termin: **U oba termina vežbi u radnoj nedelji od 9.2.2026., dolazi samo gradivo sa week07_..., a takođe je moguće i popravljati ostale testove.**  
 
 ---
 
