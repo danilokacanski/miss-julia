@@ -12,12 +12,10 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
-### **Kolokvijum 2**
-📅 Termin: **Kolokvijum 2 biće održan u sredu 4.2.2026. u terminu 19:15-21:00 u učionici NTP-417**  
-Gradivo koje dolazi na K2 je week_05... - week_08..., za koje je potrebno razumeti i delove week_02... i week04...
+### **Januarski ispitni rok**
+📅 Termin: **Naknadno će se znati termin i biće ovde naznačen**  
+U ispitnim rokovima je moguće raditi K1 i/ili K2. Gradivo koje dolazi na K1 je week01-week04, dok je gradivo koje dolazi na K2 week05-week08.
 
-### **Praktični test 4/ Popravka ostalih testova**
-📅 Termin: **U oba termina vežbi u radnoj nedelji od 9.2.2026., dolazi samo gradivo sa week07_..., a takođe je moguće i popravljati ostale testove.**  
 
 ---
 
