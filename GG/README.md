@@ -13,7 +13,7 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 ## 🟪 Raspored termina
 
 ### **Januarski ispitni rok**
-📅 Termin: **Naknadno će se znati termin i biće ovde naznačen.**  
+📅 Termin: **28.2.2026. u 7:30 u MI B4-2 i MI B4-3**  
 U ispitnim rokovima je moguće raditi K1 i/ili K2. Gradivo koje dolazi na K1 je week01-week04, dok je gradivo koje dolazi na K2 week05-week08.
 
 
