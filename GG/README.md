@@ -12,9 +12,9 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
-### **Januarski ispitni rok**
+### **Aprilski ispitni rok**
 
-📅 Termin: **Usmeni će se održati u utorak 3.3.2026. u učionici NTP417 u 11h**  
+📅 Termin: **Ispit će se održati 25.4.2026. u učionici 109 od 11h.**  
 U ispitnim rokovima je moguće raditi K1 i/ili K2. Gradivo koje dolazi na K1 je week01-week04, dok je gradivo koje dolazi na K2 week05-week08.
 
 
