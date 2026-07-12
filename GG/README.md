@@ -12,9 +12,9 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
-### **Usmeni deo ispita u aprilskom roku**
+### **Usmeni deo ispita u junskom roku**
 
-📅 Termin: **Usmeni deo ispita u aprilskom roku će se održati u utorak od 19h u učionici NTP417.**  
+📅 Termin: **Usmeni deo ispita u junskom roku će se održati u utorak 14.7.2026. od 8h u učionici NTP417.**  
 U ispitnim rokovima je moguće raditi K1 i/ili K2. Gradivo koje dolazi na K1 je week01-week04, dok je gradivo koje dolazi na K2 week05-week08.
 
 
