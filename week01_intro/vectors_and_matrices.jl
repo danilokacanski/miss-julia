@@ -18,7 +18,7 @@ println(typeof(v2))       # Matrix{Int64}
 
 o1 = 0:10                 # step = 1
 o2 = 0:0.01:10            # step = 0.01
-
+                  # UnitRange{Int64}
 println(o1)
 println(o2)
 
@@ -86,7 +86,7 @@ m_ones = ones(3, 3)              # 3×3 matrix of ones
 v_zeros = zeros(4)               # vector of zeros
 m_zeros = zeros(3, 5)            # 3×5 matrix of zeros
 
-m_rand = rand(3, 3)              # random values in [0, 1]
+m_rand = rand(3, 3)             # random values in [0, 1]
 
 println(v_ones)
 println(m_ones)

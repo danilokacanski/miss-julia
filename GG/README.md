@@ -12,9 +12,9 @@ Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d
 
 ## 🟪 Raspored termina
 
-### **Usmeni deo ispita u junskom roku**
+### **Termin za T1**
 
-📅 Termin: **Usmeni deo ispita u julskom roku će se održati u ponedeljak 20.7.2026. od 9h u učionici NTP417.**  
+📅 Termin: Po dogovoru u narednoj sedmici **2.11.2026. - 7.11.2026.** će se održati T1 na koji ide gradivo sa prvih i drugih vežbi. Zamolio bih vas da svako dođe u termin vežbi u koji je raspoređen kako bi se osigurali da imamo dovoljno mesta u učionici.   
 U ispitnim rokovima je moguće raditi K1 i/ili K2. Gradivo koje dolazi na K1 je week01-week04, dok je gradivo koje dolazi na K2 week05-week08.
 
 

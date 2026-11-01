@@ -81,7 +81,7 @@ using Statistics           # needed for mean
 # -----------------------------------------
 
 v_ones = ones(5)                 # vector of ones
-m_ones = ones(3, 3)              # 3×3 matrix of ones
+m_ones = ones(3, 3)             # 3×3 matrix of ones
 
 v_zeros = zeros(4)               # vector of zeros
 m_zeros = zeros(3, 5)            # 3×5 matrix of zeros
@@ -122,7 +122,7 @@ M = [
 upper0 = triu(M)                 # main diagonal and above
 upper1 = triu(M, 1)              # above main diagonal
 
-lower_minus2 = tril(M, -2)       # two diagonals below main
+lower_minus2 = tril(M,-2)       # two diagonals below main
 
 println(upper0)
 println(upper1)
@@ -141,7 +141,7 @@ rev_cols = reverse(M, dims=2)
 println(rev_rows)
 println(rev_cols)
 
-
+diag(reverse(M,dims=1))
 # -----------------------------------------
 # Aggregate functions: minimum, maximum, sum, mean
 # dims = 1 → compute per column

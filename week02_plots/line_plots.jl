@@ -10,7 +10,7 @@ t = 1:10
 y = rand(10)
 
 plot(t, y,
-     xticks = 1:10,
+     xticks = 1:0.5:10,
      title = "Basic Line Plot",
      label = "random data")
 
@@ -45,7 +45,6 @@ plot(t, y,
      lw = 3,
      color = :red,
      xticks = 0:1:10)
-
 xlabel!("x-axis")
 ylabel!("y-axis")
 
@@ -86,12 +85,14 @@ ylabel!("y")
 t = 0:0.1:2
 
 # First line active only for t < 1
-y1 = 5 .* t .* (t .< 1)
+y1 = 5 .* t .* (t .< 1) 
 
 # Second line active only for 1 ≤ t ≤ 2
-y2 = (-5 .* t .+ 10) .* ((t .>= 1) .& (t .<= 2))
+y2 = 5 .* t .* (t .< 1) 
+     .+ (-5 .* t .+ 10) .* ((t .>= 1) .& (t .<= 2))
 
 y = y1 + y2
+
 
 plot(t, y,
      title = "Piecewise Linear Signal",

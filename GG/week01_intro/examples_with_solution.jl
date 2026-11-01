@@ -11,7 +11,7 @@ A = [
     1   2   3   4   5
 ]
 
-
+A[A .> 0]
 # -----------------------------------------
 # Example 1 – linear indexing
 # Select element 99 using 1D indexing
@@ -87,7 +87,7 @@ println("Example 10: ", anti_diag)
 
 # -----------------------------------------
 # Example 11 – select all even elements
-evens = A[rem.(A, 2) .== 0]
+evens = A[(rem.(A, 2) .== 0)]   # select even and non-zero elements
 println("Example 11: ", evens)
 
 
