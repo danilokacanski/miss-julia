@@ -6,7 +6,7 @@ Ovaj dokument sadrži pregled bodovanja, uslove za izlazak na usmeni ispit i ras
 
 ## 📊 Rezultati
 
-Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d/1-XOY5EP7_vWWm3iOVBHYEjhB4E5QVqQQq20BTwxUHY4/edit?usp=sharing
+Rezultate možete pronaći na ovom linku: https://docs.google.com/spreadsheets/d/1tXil9QMHfzu7vMW_FbIKcEuM0HeTV8FFjlpueFEwKHk/edit?usp=sharing
 
 ---
 
@@ -28,16 +28,16 @@ Snimke vežbi za E2 iz 2021 možete pronaći na sledećem linku: https://www.you
 
 ## 🟦 Raspodela bodova tokom semestra (ukupno 70 bodova)
 
-### **1. Računarski testovi – 4 testa × 2.5 boda = 10 bodova**
+### **1. Računarski testovi – 4 testa × 5 bodova = 20 bodova**
 - Održavaju se na **vežbama**.
-- Svaki test nosi **2.5 boda**.
+- Svaki test nosi **5 bodova**.
 
 ---
 
 ### **2. Teorijski testovi – 2 testa × 5 bodova = 10 bodova**
 - Održavaju se na **predavanjima**.
 - Svaki teorijski test nosi **5 bodova**.
-
+- Mogu se smatrati dodatnim, tako da sa njima je moguće ostvariti čak 80 bodova ukupno
 ---
 
 ### **3. Kolokvijumi – 2 kolokvijuma × 25 bodova = 50 bodova**
@@ -51,7 +51,7 @@ Snimke vežbi za E2 iz 2021 možete pronaći na sledećem linku: https://www.you
 
 Da biste izašli na usmeni deo ispita, potrebno je ostvariti:
 
-### ✅ **Minimum 36/70 bodova**  
+### ✅ **Minimum 36 bodova**  
 (računaju se računarski testovi + teorijski testovi + kolokvijumi)
 
 ---
@@ -64,4 +64,4 @@ Da biste izašli na usmeni deo ispita, potrebno je ostvariti:
 ---
 
 ### **Dodatne informacije**
-Za dodatne informacije obratiti se asistentu na mejl - *kacanski.ra26.2020@gmail.com* ili profesoru na mejl - dcapko@uns.ac.rs
+Za dodatne informacije ili žalbe obratiti se asistentu na mejl - *kacanski.ra26.2020@gmail.com* ili profesoru na mejl - dcapko@uns.ac.rs
